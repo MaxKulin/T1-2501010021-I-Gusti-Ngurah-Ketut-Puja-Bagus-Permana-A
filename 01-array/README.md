@@ -1,3 +1,8 @@
+Nama: I Gusti Ngurah Ketut Puja Bagus Permana
+Nim: 2501010021
+Kelas: A
+
+
 Array adalah struktur data yang digunakan untuk menyimpan banyak data dalam satu variabel.
 
 Dalam Python, array direpresentasikan menggunakan list.
